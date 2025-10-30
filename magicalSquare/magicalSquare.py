@@ -103,7 +103,7 @@ def displaySquare(square):
     print(line_format.format(value, *line))
 
 ## Fill empty array
-n = 51
+n = 5
 square = [[float('nan') for i in range(0,n)] for j in range(0,n)]
 
 ## Fill center cases
