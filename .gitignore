@@ -16,6 +16,8 @@ eggs/
 .eggs/
 lib/
 lib64/
+lib64
+bin/
 parts/
 sdist/
 var/
@@ -74,6 +76,7 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+pyvenv.cfg
 
 # Jupyter Notebook
 .ipynb_checkpoints
